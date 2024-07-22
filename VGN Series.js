@@ -11,7 +11,7 @@ export function ControllableParameters()
 		{"property":"shutdownColor", "label":"Shutdown Color", "min":"0", "max":"360", "type":"color", "default":"000000"},
 		{"property":"LightingMode", "label":"Lighting Mode", "type":"combobox", "values":["Canvas", "Forced"], "default":"Canvas"},
 		{"property":"forcedColor", "label":"Forced Color", "min":"0", "max":"360", "type":"color", "default":"009bde"},
-		{"property":"boardModel", "group":"lighting", "label":"Key Type", "type":"combobox", "values":["V98Pro", "S99","N75","N75Pro"], "default":"V98Pro"}];
+		{"property":"boardModel", "group":"lighting", "label":"Key Type", "type":"combobox", "values":["V98Pro", "S99","N75","N75Pro","ATK75"], "default":"V98Pro"}];
 }
 
 /* 
